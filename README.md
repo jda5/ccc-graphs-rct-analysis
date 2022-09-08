@@ -16,3 +16,5 @@ In order to run this script, you will need to install the following. Most of the
 * statsmodels (https://www.statsmodels.org/stable/index.html)
 
 You will also need to download the data files, which can be found here: LINK
+
+Additionally, the app data analyses can be found here: https://github.com/jda5/ccc-graphs-app-data-analysis and the app's source code can be found here: https://github.com/jda5/ccc-graphs-production
