@@ -15,6 +15,6 @@ In order to run this script, you will need to install the following. Most of the
 * pingouin (https://pingouin-stats.org)
 * statsmodels (https://www.statsmodels.org/stable/index.html)
 
-You will also need to download the data files, which can be found here: https://osf.io/f4a9x/files/osfstorage/63233b25770fa0025ccf5cc2
+You will also need to download the test data file, which can be found here: https://osf.io/f4a9x/files/osfstorage/63233b25770fa0025ccf5cc2
 
 Additionally, the app data analyses can be found here: https://github.com/jda5/ccc-graphs-app-data-analysis and the app's source code can be found here: https://github.com/jda5/ccc-graphs-production
